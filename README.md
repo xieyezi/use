@@ -27,7 +27,7 @@ Things I am using
 
 ## Hardware
 
-- MacBook Mini M1 Max 16GB/256GB
+- MacBook Mini M2 16GB/256GB
 - Microphone: Blue Yeti
 - Monitor: AOC U2790B
 - Mouse: Logitech 402
