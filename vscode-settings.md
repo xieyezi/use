@@ -1,15 +1,14 @@
 # vscode-settings
 
-
 ```json
 {
   "editor.fontSize": 16,
   "editor.quickSuggestionsDelay": 14,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "Input Mono, IBM Plex Mono, FiraCode-Retina, Monaco,Menlo",
+  "editor.fontFamily": "IBM Plex Mono, Input Mono,  FiraCode-Retina, Monaco,Menlo",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
-  //"editor.fontWeight": "450",
+  "editor.fontWeight": "450",
   "editor.wordWrapColumn": 150,
   "editor.inlineSuggest.enabled": true,
   "editor.glyphMargin": true,
