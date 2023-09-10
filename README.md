@@ -5,7 +5,7 @@ Things I am using
 ## Editor
 
 - Editor: [VS Code](https://code.visualstudio.com/)
-- VS Code Settings & Extensions: [antfu/vscode-settings](https://github.com/xieyezi/use/vscode-settings)
+- VS Code Settings & Extensions: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/vscode-settings.md)
 - Fonts: [IBM plex](https://github.com/IBM/plex)
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
 - File Icons: [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
