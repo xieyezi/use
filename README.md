@@ -8,7 +8,7 @@ Things I am using
 - VS Code Settings & Extensions: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/vscode-settings.md)
 - Fonts: [IBM plex](https://github.com/IBM/plex)
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
-- File Icons: [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
+- File Icons: [Icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
 - Product Icons: [Carbon Icons](https://github.com/antfu/vscode-icons-carbon)
 
 ## Chrome Extensions
@@ -27,7 +27,7 @@ Things I am using
 
 ## Hardware
 
-- MacBook Mini M2 16GB/256GB
+- MacBook Air M2 15 inch 24GB/1TB
 - Microphone: Blue Yeti
 - Monitor: AOC U2790B
 - Mouse: Logitech 402
@@ -37,7 +37,6 @@ Things I am using
 
 - [`zsh`](https://zsh.org/) - Shell
 - [`pnpm`](https://pnpm.io/) - Preferred package managers, also for monorepo
-- [`taze`](https://github.com/antfu/taze) - Upgrade dependencies
 - [`bumpp`](https://github.com/antfu/bumpp) - Bump package version version for new release
 - [`eslint`](https://eslint.org/) - Linter
   - Config: [xieyezi/typescript-eslint-config](https://github.com/xieyezi/xieyezi-preset/tree/main/packages/typescript-eslint-config)
