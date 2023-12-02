@@ -2,47 +2,48 @@
 
 ```json
 {
+  // editor
   "editor.fontSize": 16,
   "editor.quickSuggestionsDelay": 14,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "IBM Plex Mono, Input Mono,  FiraCode-Retina, Monaco,Menlo",
-  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
-  "editor.fontWeight": "450",
+  "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo", // for Windows
+  "editor.fontLigatures": true,
+  "editor.fontWeight": 600,
   "editor.wordWrapColumn": 150,
+  "editor.lineHeight": 1.5,
+  "editor.lineNumbers": "interval",
   "editor.inlineSuggest.enabled": true,
   "editor.glyphMargin": true,
   "editor.guides.bracketPairs": "active",
-  "editor.lineNumbers": "interval",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "boundary",
   "editor.tabSize": 2,
-  "editor.formatOnSave": true,
   "editor.comments.insertSpace": false,
+  "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.organizeImports": true
   },
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
   "workbench.list.smoothScrolling": true,
-  "workbench.activityBar.visible": true,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.enablePreview": false,
-  "workbench.colorTheme": "Vitesse Dark",
-  "workbench.preferredLightColorTheme": "Vitesse Dark",
-  "workbench.preferredDarkColorTheme": "Vitesse Dark",
-  "workbench.preferredHighContrastColorTheme": "Vitesse Dark",
   "workbench.editor.tabCloseButton": "right",
-  "workbench.iconTheme": "file-icons",
+  "workbench.iconTheme": "icons",
   "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Vitesse Dark Soft",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.colorCustomizations": {
-    "editor.background": "#202020",
-    "editor.foldBackground": "#303030",
-    "activityBar.background": "#303030",
-    "editor.lineHighlightBackground": "#303030",
-    "sideBar.background": "#252525"
+    "activityBar.background": "#303030"
   },
+
+  // terminal
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.defaultProfile.osx": "zsh",
@@ -51,47 +52,59 @@
   "terminal.integrated.fontWeight": "400",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
+  "debug.console.fontSize": 15,
+
+  // windows
   "window.autoDetectColorScheme": true,
   "window.dialogStyle": "custom",
-  "window.nativeTabs": true, // this is great, macOS only
   "window.titleBarStyle": "custom",
+  "window.nativeTabs": true, // this is great, macOS only
+  "security.workspace.trust.untrustedFiles": "open",
+
+  // prettier
+  "prettier.tabWidth": 2,
   "prettier.printWidth": 150,
+  "prettier.semi": true,
+  "prettier.useTabs": false,
+  "prettier.singleQuote": false,
   "prettier.jsxSingleQuote": true,
   "prettier.bracketSpacing": true,
-  "prettier.singleQuote": true,
-  "prettier.semi": false,
+  "prettier.trailingComma": "none",
   "prettier.arrowParens": "always",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "debug.console.fontSize": 15,
-  "files.autoSave": "afterDelay",
-  "explorer.confirmDelete": false,
-  "markdown.preview.fontSize": 16,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "security.workspace.trust.untrustedFiles": "open",
-  "scm.diffDecorationsGutterWidth": 2,
-  "polacode.transparentBackground": true,
-  "polacode.backgroundColor": "#f3f3f3",
-  "[javascript]": {
+  "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
-  "[markdown]": {
+  "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.quickSuggestions": {
-    "other": "on",
-    "comments": "off",
-    "strings": "off"
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "git.autofetch": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "scm.inputFontSize": 15,
-  "unocss.root": "packages/client",
-  "prettier.configPath": "/Users/xieyezi/.prettierrc.js"
+  "scm.diffDecorationsGutterWidth": 2,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "afterDelay",
+  "markdown.preview.fontSize": 16,
+  "explorer.confirmDelete": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // Extension configs
+  "polacode.transparentBackground": true,
+  "polacode.backgroundColor": "#f3f3f3",
+  "git.autofetch": true,
+  "unocss.root": "packages/client"
 }
 ```
