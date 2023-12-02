@@ -5,7 +5,7 @@ Things I am using
 ## Editor
 
 - Editor: [VS Code](https://code.visualstudio.com/)
-- VS Code Settings & Extensions: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/vscode-settings.md)
+- VS Code Settings: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/vscode-settings.md)
 - Fonts: [IBM plex](https://github.com/IBM/plex)
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
 - File Icons: [Icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
@@ -13,6 +13,8 @@ Things I am using
 
 ## Chrome Extensions
 
+- [Momentum](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en-US&utm_source=ext_sidebar) Beautiful landing page
+- [Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-web-p/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=en-US&utm_source=ext_sidebar) Highly recommended
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - No-brainer must-have
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) - It looks very nice!
 
@@ -35,7 +37,7 @@ Things I am using
 
 ## CLI
 
-- [`zsh`](https://zsh.org/) - Shell
+- [`oh my zsh`](https://ohmyz.sh/) - Shell
 - [`pnpm`](https://pnpm.io/) - Preferred package managers, also for monorepo
 - [`bumpp`](https://github.com/antfu/bumpp) - Bump package version version for new release
 - [`eslint`](https://eslint.org/) - Linter
