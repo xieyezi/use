@@ -26,6 +26,8 @@ Things I am using
 
 - [Figma](https://www.figma.com/) - Illustrations, Logos, Social Media Banners
 - [OBS](https://obsproject.com/) - Streaming & Recording
+- [Twitter](https://twitter.com/xieyezi666)
+- [Github](https://github.com/xieyezi)
 
 ## Hardware
 
