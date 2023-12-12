@@ -7,7 +7,7 @@
   "editor.quickSuggestionsDelay": 14,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo", // for Windows
+  "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo", 
   "editor.fontLigatures": true,
   "editor.fontWeight": 600,
   "editor.wordWrapColumn": 150,
@@ -22,8 +22,8 @@
   "editor.comments.insertSpace": false,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true,
-    "source.organizeImports": true
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
   },
   "editor.quickSuggestions": {
     "other": "on",
@@ -37,10 +37,10 @@
   "workbench.editor.tabCloseButton": "right",
   "workbench.iconTheme": "icons",
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "Vitesse Dark Soft",
+  "workbench.colorTheme": "GitHub Dark",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.colorCustomizations": {
-    "activityBar.background": "#303030"
+    //"activityBar.background": "#303030"
   },
 
   // terminal
@@ -52,7 +52,7 @@
   "terminal.integrated.fontWeight": "400",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "debug.console.fontSize": 15,
+  "debug.console.fontSize": 14,
 
   // windows
   "window.autoDetectColorScheme": true,
@@ -105,6 +105,6 @@
   "polacode.transparentBackground": true,
   "polacode.backgroundColor": "#f3f3f3",
   "git.autofetch": true,
-  "unocss.root": "packages/client"
+  "unocss.root": "packages/client",
 }
 ```
