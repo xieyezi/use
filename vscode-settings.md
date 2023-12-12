@@ -22,8 +22,7 @@
   "editor.comments.insertSpace": false,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit"
+    "source.fixAll": "always"
   },
   "editor.quickSuggestions": {
     "other": "on",
@@ -40,7 +39,7 @@
   "workbench.colorTheme": "GitHub Dark",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.colorCustomizations": {
-    //"activityBar.background": "#303030"
+    //"activityBar.background": "#303030" // this for vitesse Theme
   },
 
   // terminal
