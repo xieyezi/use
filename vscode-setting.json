@@ -6,7 +6,7 @@
   "editor.suggestSelection": "first",
   "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo", 
   "editor.fontLigatures": true,
-  "editor.fontWeight": 600,
+  "editor.fontWeight": 550,
   "editor.wordWrapColumn": 150,
   "editor.lineHeight": 1.5,
   "editor.lineNumbers": "interval",
@@ -54,6 +54,7 @@
   "window.autoDetectColorScheme": true,
   "window.dialogStyle": "custom",
   "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
   "window.nativeTabs": true, // this is great, macOS only
   "security.workspace.trust.untrustedFiles": "open",
 
