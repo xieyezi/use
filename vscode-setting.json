@@ -50,7 +50,7 @@
   "terminal.integrated.tabs.enabled": true,
   "debug.console.fontSize": 14,
 
-  // windows
+  // window
   "window.autoDetectColorScheme": true,
   "window.dialogStyle": "custom",
   "window.titleBarStyle": "custom",
