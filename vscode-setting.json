@@ -6,7 +6,7 @@
   "editor.suggestSelection": "first",
   "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo", 
   "editor.fontLigatures": true,
-  "editor.fontWeight": 550,
+  "editor.fontWeight": 540,
   "editor.wordWrapColumn": 150,
   "editor.lineHeight": 1.5,
   "editor.lineNumbers": "interval",
