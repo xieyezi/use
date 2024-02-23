@@ -4,7 +4,7 @@
   "editor.quickSuggestionsDelay": 14,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo", 
+  "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo",
   "editor.fontLigatures": true,
   "editor.fontWeight": 540,
   "editor.wordWrapColumn": 150,
@@ -26,18 +26,26 @@
     "comments": "off",
     "strings": "off"
   },
-  "workbench.list.smoothScrolling": true,
-  "workbench.editor.closeOnFileDelete": true,
-  "workbench.editor.highlightModifiedTabs": true,
-  "workbench.editor.enablePreview": false,
-  "workbench.editor.tabCloseButton": "right",
-  "workbench.iconTheme": "icons",
-  "workbench.startupEditor": "newUntitledFile",
+  //"workbench.list.smoothScrolling": true,
+  //"workbench.editor.closeOnFileDelete": true,
+  //"workbench.editor.highlightModifiedTabs": true,
+  //"workbench.editor.enablePreview": false,
+  //"workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "icons",
   "workbench.productIconTheme": "icons-carbon",
+  "workbench.preferredDarkColorTheme": "GitHub Dark",
+  "workbench.preferredHighContrastColorTheme": "GitHub Dark",
   "workbench.colorCustomizations": {
     //"activityBar.background": "#303030" // this for vitesse Theme
   },
+
+  // window
+  "window.dialogStyle": "custom",
+  "window.titleBarStyle": "custom",
+  "window.autoDetectColorScheme": false,
+  "window.nativeTabs": true, // this is great, macOS only
+  "window.systemColorTheme": "dark",
 
   // terminal
   "terminal.integrated.fontSize": 14,
@@ -49,13 +57,6 @@
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
   "debug.console.fontSize": 14,
-
-  // window
-  "window.autoDetectColorScheme": true,
-  "window.dialogStyle": "custom",
-  "window.titleBarStyle": "custom",
-  "window.zoomLevel": 0,
-  "window.nativeTabs": true, // this is great, macOS only
   "security.workspace.trust.untrustedFiles": "open",
 
   // prettier
@@ -99,8 +100,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
 
   // Extension configs
+  "git.autofetch": true,
   "polacode.transparentBackground": true,
   "polacode.backgroundColor": "#f3f3f3",
-  "git.autofetch": true,
-  "unocss.root": "packages/client",
-}
+  "unocss.root": "packages/client",}
