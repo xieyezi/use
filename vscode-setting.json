@@ -26,11 +26,11 @@
     "comments": "off",
     "strings": "off"
   },
-  //"workbench.list.smoothScrolling": true,
-  //"workbench.editor.closeOnFileDelete": true,
-  //"workbench.editor.highlightModifiedTabs": true,
-  //"workbench.editor.enablePreview": false,
-  //"workbench.startupEditor": "newUntitledFile",
+  "workbench.list.smoothScrolling": true,
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "icons",
   "workbench.productIconTheme": "icons-carbon",
@@ -103,4 +103,5 @@
   "git.autofetch": true,
   "polacode.transparentBackground": true,
   "polacode.backgroundColor": "#f3f3f3",
-  "unocss.root": "packages/client",}
+  "unocss.root": "packages/client"
+}
