@@ -31,14 +31,10 @@
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.enablePreview": false,
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "GitHub Dark",
   "workbench.iconTheme": "icons",
-  "workbench.productIconTheme": "icons-carbon",
+  "workbench.colorTheme": "GitHub Dark",
   "workbench.preferredDarkColorTheme": "GitHub Dark",
   "workbench.preferredHighContrastColorTheme": "GitHub Dark",
-  "workbench.colorCustomizations": {
-    //"activityBar.background": "#303030" // this for vitesse Theme
-  },
 
   // window
   "window.dialogStyle": "custom",
@@ -103,5 +99,6 @@
   "git.autofetch": true,
   "polacode.transparentBackground": true,
   "polacode.backgroundColor": "#f3f3f3",
-  "unocss.root": "packages/client"
+  "unocss.root": "packages/client",
+  "git.confirmSync": false
 }

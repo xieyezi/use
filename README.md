@@ -36,7 +36,7 @@ Things I am using
 - MacBook Air M2 15 inch 24GB/1TB
 - Microphone: Blue Yeti
 - Monitor: AOC U2790B
-- Mouse: Logitech 402
+- Mouse: Logitech M750 / Logitech 402
 - Keyboard: Logitech K580
 
 ## CLI
