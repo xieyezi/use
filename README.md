@@ -6,7 +6,7 @@ Things I am using
 
 - Editor: [VS Code](https://code.visualstudio.com/)
 - VS Code Settings: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/vscode-setting.json)
-- Fonts: [IBM plex](https://github.com/IBM/plex)
+- Fonts: [IBM plex](https://github.com/IBM/plex) | [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 - Theme:
   - [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
   - [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
