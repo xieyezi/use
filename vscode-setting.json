@@ -4,7 +4,7 @@
   "editor.quickSuggestionsDelay": 14,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo",
+  "editor.fontFamily": "Space Mono, IBM Plex Mono, Fira Code, Input Mono, Monaco,Menlo",
   "editor.fontLigatures": true,
   "editor.fontWeight": 540,
   "editor.wordWrapColumn": 150,
