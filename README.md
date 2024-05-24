@@ -23,6 +23,7 @@ Things I am using
 ## MacOS Productivity
 
 - [Kap](https://getkap.co/) - GIF Recorder
+- [Screen Studio](https://www.screen.studio/) - Video Record
 
 ## Design / Social Media
 
