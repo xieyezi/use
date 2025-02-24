@@ -30,7 +30,6 @@
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.enablePreview": false,
   "workbench.activityBar.orientation": "vertical",
-  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.preferredDarkColorTheme": "SynthWave '84",
   "workbench.preferredHighContrastColorTheme": "SynthWave '84",
@@ -97,5 +96,6 @@
   "[less]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "diffEditor.renderSideBySide": false
+  "diffEditor.renderSideBySide": false,
+  "workbench.sideBar.location": "right"
 }
