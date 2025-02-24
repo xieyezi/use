@@ -4,8 +4,9 @@ Things I am using
 
 ## Editor
 
-- Editor: [VS Code](https://code.visualstudio.com/)
+- Editor: [Cursor](https://www.cursor.com/) |  [VS Code](https://code.visualstudio.com/) 
 - VS Code Settings: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/vscode-setting.json)
+- Cursor Settings: [xieyezi/vscode-settings](https://github.com/xieyezi/use/blob/main/cursor-settings.json)
 - Fonts: [IBM plex](https://github.com/IBM/plex) | [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 - Theme:
   - [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
