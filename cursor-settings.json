@@ -33,6 +33,7 @@
   "workbench.iconTheme": "file-icons",
   "workbench.sideBar.location": "left",
   "workbench.activityBar.orientation": "vertical",
+  "workbench.colorTheme": "Cursor Dark Midnight",
   "workbench.preferredDarkColorTheme": "Cursor Dark Midnight",
   "workbench.preferredHighContrastColorTheme": "Night Owl Light (No Italics)",
   "window.dialogStyle": "custom",
@@ -96,6 +97,5 @@
   "polacode.transparentBackground": true,
   "polacode.backgroundColor": "#f3f3f3",
   "unocss.root": "packages/client",
-  "diffEditor.renderSideBySide": false,
-  "workbench.colorTheme": "Cursor Dark Midnight"
+  "diffEditor.renderSideBySide": false
 }
