@@ -1,12 +1,13 @@
 {
-  "editor.fontSize": 16,
-  "editor.quickSuggestionsDelay": 14,
+  "editor.fontSize": 14,
+  "editor.quickSuggestionsDelay": 10,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "IBM Plex Mono, Space Mono, Fira Code, Input Mono, Monaco,Menlo",
-  "editor.fontLigatures": true,
-  "editor.fontWeight": 540,
-  "editor.wordWrapColumn": 150,
+  "editor.fontFamily": "JetBrains Mono,Input Mono,Fira Code,Space Mono,Monaco,Menlo,IBM Plex Mono",
+  "editor.fontLigatures": false,
+  "editor.fontWeight": 600,
+  "editor.wordWrapColumn": 100,
+  "editor.letterSpacing": 0.2,
   "editor.lineHeight": 1.5,
   "editor.lineNumbers": "interval",
   "editor.inlineSuggest.enabled": true,
@@ -15,7 +16,7 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "boundary",
   "editor.tabSize": 2,
-  "editor.comments.insertSpace": false,
+  "editor.comments.insertSpace": true,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": "always"
@@ -29,24 +30,25 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "file-icons",
+  "workbench.sideBar.location": "left",
   "workbench.activityBar.orientation": "vertical",
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.preferredDarkColorTheme": "SynthWave '84",
-  "workbench.preferredHighContrastColorTheme": "SynthWave '84",
+  "workbench.preferredDarkColorTheme": "Cursor Dark Midnight",
+  "workbench.preferredHighContrastColorTheme": "Night Owl Light (No Italics)",
   "window.dialogStyle": "custom",
   "window.titleBarStyle": "custom",
   "window.autoDetectColorScheme": false,
   "window.nativeTabs": true,
   "window.systemColorTheme": "dark",
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.fontWeight": "400",
+  "terminal.integrated.fontWeight": "500",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "debug.console.fontSize": 14,
+  "debug.console.fontSize": 12,
   "security.workspace.trust.untrustedFiles": "open",
   "prettier.tabWidth": 2,
   "prettier.printWidth": 150,
@@ -67,7 +69,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -78,24 +80,22 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "scm.inputFontSize": 15,
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "scm.inputFontSize": 14,
   "scm.diffDecorationsGutterWidth": 2,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "files.autoSave": "afterDelay",
-  "markdown.preview.fontSize": 16,
+  "markdown.preview.fontSize": 14,
   "explorer.confirmDelete": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "git.autofetch": true,
   "polacode.transparentBackground": true,
   "polacode.backgroundColor": "#f3f3f3",
   "unocss.root": "packages/client",
-  "git.confirmSync": false,
-  "workbench.colorTheme": "SynthWave '84",
-  "workbench.iconTheme": "icons",
-  "[less]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "diffEditor.renderSideBySide": false,
-  "workbench.sideBar.location": "right"
+  "workbench.colorTheme": "Cursor Dark Midnight"
 }
